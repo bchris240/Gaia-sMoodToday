@@ -2,7 +2,8 @@ Gaia'sMoodToday
 
 A simple weather application that displays the current weather and forecast for a given city.
 
-![Gaia'sMToday Screenshot](![Alt text=A screenshot of Gaia's Mood Today, a weather forecast website displaying the current temperature, wind speed, and humidity for Tifton, Georgia as well as the 5-day forecast for the city. The website features a search bar and dropdown menu for users to search for weather information for other cities. ](script src: "assets/Gaia-sMoodTodayscreenshot.png")
+![Gaia'sMToday Screenshot](assets/Gaia-sMoodTodayscreenshot.png "A screenshot of Gaia's Mood Today, a weather forecast website displaying the current temperature, wind speed, and humidity for Tifton, Georgia as well as the 5-day forecast for the city. The website features a search bar and dropdown menu for users to search for weather information for other cities.")
+
 
 ## Structure
 
