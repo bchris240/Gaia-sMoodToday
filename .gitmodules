@@ -1,2 +1,4 @@
 [submodule "Gaia-sMoodToday"]
-	url = git@github.com:bchris240/Gaia-sMoodToday.git
+    path = Gaia-sMoodToday
+    url = git@github.com:bchris240/Gaia-sMoodToday.git
+
